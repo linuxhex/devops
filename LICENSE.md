@@ -1,67 +1,77 @@
-Business Source License 1.1
+# PolyForm Noncommercial License 1.0.0
 
-License text copyright (c) 2018, MariaDB Corporation Ab, All Rights Reserved.
-"Business Source License" is a trademark of MariaDB Corporation Ab.
+<https://polyformproject.org/licenses/noncommercial/1.0.0>
 
-## Parameters
+## Acceptance
 
-**Licensor:**             linuxhex  
-**Licensed Work:**        devops  
-**Additional Use Grant:** You may use the Licensed Work for non-commercial purposes, including personal projects, educational use, and research.  
-**Change Date:**          2030-01-01  
-**Change License:**       Apache License, Version 2.0  
+In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
 
-## Terms
+## Copyright License
 
-The Licensor grants you a non-exclusive, worldwide, non-transferable, non-sublicensable, royalty-free license to use, copy, distribute, and modify the Licensed Work, subject to the following conditions:
+The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose. However, you may only distribute the software according to [Distribution License](#distribution-license) and make changes or new works based on the software according to [Changes and New Works License](#changes-and-new-works-license).
 
-### 1. Commercial Use Restriction
+## Distribution License
 
-You may NOT use the Licensed Work for any "Commercial Purpose" without obtaining a separate commercial license from the Licensor.
+The licensor grants you an additional copyright license to distribute copies of the software. Your license to distribute covers distributing the software with changes and new works permitted by [Changes and New Works License](#changes-and-new-works-license).
 
-### 2. Definition of Commercial Purpose
+## Notices
 
-"Commercial Purpose" means any use of the Licensed Work for the purpose of generating revenue, directly or indirectly, including but not limited to:
+You must ensure that anyone who gets a copy of any part of the software from you also gets a copy of these terms or the URL for them above, as well as copies of any plain-text lines beginning with `Required Notice:` that the licensor provided with the software. For example:
 
-a. Providing the Licensed Work as a hosted or managed service to third parties;  
-b. Using the Licensed Work in a product or service that is provided to third parties for a fee;  
-c. Using the Licensed Work in any commercial offering, SaaS platform, or paid service;  
-d. Using the Licensed Work for internal business operations that generate revenue.
+> Required Notice: Copyright linuxhex (https://github.com/linuxhex)
 
-### 3. Non-Commercial Use Permitted
+## Changes and New Works License
 
-You may use the Licensed Work for:
+The licensor grants you an additional copyright license to make changes and new works based on the software for any permitted purpose.
 
-a. Personal, non-commercial projects;  
-b. Educational institutions and academic research;  
-c. Open source projects that do not generate revenue;  
-d. Evaluation and testing purposes.
+## Patent License
 
-### 4. Commercial License
+The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
 
-For commercial use, please contact the Licensor to obtain a commercial license. Commercial licenses may include:
+## Noncommercial Purposes
 
-- Perpetual commercial use license
-- Subscription-based commercial license
-- Custom enterprise license
+Any noncommercial purpose is a permitted purpose.
 
-### 5. Attribution
+## Personal Uses
 
-You must retain and reproduce this license notice in all copies of the Licensed Work, including in any modified versions.
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
 
-### 6. Change Date
+## Noncommercial Organizations
 
-On the Change Date specified above, the Licensed Work will automatically be re-licensed under the Change License (Apache License, Version 2.0), and the restrictions in this license will no longer apply.
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding.
 
-### 7. No Warranty
+## Fair Use
 
-THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE LICENSED WORK OR THE USE OR OTHER DEALINGS IN THE LICENSED WORK.
+You may have "fair use" rights for the software under the law. These terms do not limit them.
 
-### 8. Contact
+## No Other Rights
 
-For commercial licensing inquiries, please contact: linuxhex
+These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else. These terms do not imply any other licenses.
+
+## Patent Defense
+
+If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company makes such a claim, your patent license ends immediately for work on behalf of your company.
+
+## Violations
+
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice. Otherwise, all your licenses end immediately.
+
+## No Liability
+
+**_As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim._**
+
+## Definitions
+
+The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
+
+**You** refers to the individual or entity agreeing to these terms.
+
+**Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization. **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise. Control can be direct or indirect.
+
+**Your licenses** are all the licenses granted to you for the software under these terms.
+
+**Use** means anything you do with the software requiring one of your licenses.
 
 ---
 
-Copyright (c) 2024, linuxhex. All Rights Reserved.
-
+Copyright (c) linuxhex. All Rights Reserved.
